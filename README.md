@@ -6,6 +6,10 @@
 
 A USA 2nd ammendment friendly fork of the Wii Shop Channel Music extension.
 
+### Constitution of the United States, Second Amendment: ###
+
+_A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms,_ ___shall not be infringed.___
+
 ![Readme Screenshot](https://user-images.githubusercontent.com/11728455/152659863-6867fffe-b6bd-4fc9-af07-7e120ad6919c.jpg)
 
 ## Acknowledgements
@@ -38,6 +42,7 @@ https://github.com/Semedar/wii-shop-extension-2a-friendly/archive/refs/heads/mas
 
 - [Corbin Davenport (Original Creator)](https://github.com/corbindavenport)
 - [Victor Villa (Forked 2A Version)](https://github.com/Semedar)
+
 ## FAQ
 
 #### What does this do?
