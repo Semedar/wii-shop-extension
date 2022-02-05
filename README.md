@@ -1,6 +1,6 @@
 # Wii Shop Channel Music (USA 2A Friendly)
 
-![Screenshot 2022-02-05 140942](https://user-images.githubusercontent.com/11728455/152657471-f44aafb7-1072-4d05-9879-2df01c91ab30.jpg)
+![Readme Screenshot](https://user-images.githubusercontent.com/11728455/152657963-803acb8a-3b0b-4255-88b3-b64225fa108f.jpg)
 
 This is a browser extension that plays the [Wii Shop Channel theme](https://www.youtube.com/watch?v=yyjUmv1gJEg) in the background when you visit a shopping website. You can also select the music from the 3DS eShop, DSi Shop, Wii Shop Banner/Home, Wii U eShop, and Coconut Mall.
 
