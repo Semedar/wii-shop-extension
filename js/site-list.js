@@ -1,4 +1,5 @@
 const siteList = [
+    'aeroprecisionusa.com',
     'aliengearholsters.com',
     'aliexpress.com',
     'amazon.ca',
@@ -68,6 +69,7 @@ const siteList = [
     'ebay.nl',
     'ebay.ph',
     'elgiganten.dk',
+    'eotechinc.com',
     'eprice.com.tw',
     'etmall.com.tw',
     'etsy.com',
@@ -187,6 +189,7 @@ const siteList = [
     'v1tactical.com',
     'varuste.net',
     'venturesurplus.com',
+    'vortexoptics.com',
     'walmart.com',
     'warriorpoetsupplyco.com',
     'woobiebrothersapparel.com',
