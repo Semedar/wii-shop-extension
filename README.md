@@ -1,10 +1,6 @@
-
 ![Logo](https://raw.githubusercontent.com/Semedar/wii-shop-extension-2a-friendly/master/img/icon128.png)
 
-
 # Wii Shop Channel Music (USA 2A Friendly)
-
-A USA 2nd ammendment friendly fork of the Wii Shop Channel Music extension.
 
 ### Constitution of the United States, Second Amendment: ###
 
@@ -45,10 +41,13 @@ https://github.com/Semedar/wii-shop-extension-2a-friendly/archive/refs/heads/mas
 
 ## FAQ
 
+#### What is this?
+
+A United States of America 2nd ammendment friendly fork of the Wii Shop Channel Music extension.
+
 #### What does this do?
 
 This is a browser extension that plays the Wii Shop Channel theme in the background when you visit a shopping website. You can also select the music from the 3DS eShop, DSi Shop, Wii Shop Banner/Home, Wii U eShop, and Coconut Mall.
-
 
 #### What permissions does this extension need/use?
 
