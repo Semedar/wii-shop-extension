@@ -166,6 +166,7 @@ const siteList = [
     'safariland.com',
     'saxo.com',
     'saxo.dk',
+    'scopelist.com',
     'securitysnobs.com',
     'shop.cosmed.com.tw',
     'shopee.tw',
