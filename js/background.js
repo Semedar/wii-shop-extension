@@ -109,9 +109,6 @@ chrome.runtime.onInstalled.addListener(function () {
         data.message = 'The Wii Shop theme will now play when you visit shopping websites. Click the toolbar button to change settings at any time.'
         data.buttons = [{
             title: 'Open settings'
-        },
-        {
-            title: 'Join Discord'
         }
         ]
         handleNotif = function (id) {
@@ -123,8 +120,6 @@ chrome.runtime.onInstalled.addListener(function () {
                         'height': 500,
                         'type': 'popup'
                     })
-                } else if (i === 1) {
-                    chrome.tabs.create({ url: 'https://discord.com/invite/59wfy5cNHw' })
                 }
             })
         }
