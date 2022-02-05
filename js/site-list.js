@@ -47,6 +47,7 @@ const siteList = [
     'coolblue.nl',
     'coop.dk',
     'crutchfield.com',
+    'danieldefense.com',
     'darkangelmedical.com',
     'deguns.net',
     'dynamicfuzz.com',
